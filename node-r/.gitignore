@@ -1,0 +1,13 @@
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pem
+*.key
+keys/
+.pytest_cache/
